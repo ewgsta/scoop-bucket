@@ -1,11 +1,11 @@
 {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "description": "Tarayıcı yok, reklam yok. Sadece sen ve anime.",
     "homepage": "https://github.com/ewgsta/weeb-cli",
     "license": "CC-BY-NC-ND-4.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ewgsta/weeb-cli/releases/download/v2.0.0/weeb-cli-Windows.exe",
+            "url": "https://github.com/ewgsta/weeb-cli/releases/download/v2.1.0/weeb-cli-Windows.exe",
             "hash": "check" 
         }
     },
